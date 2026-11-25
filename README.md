@@ -1,6 +1,6 @@
 # Hi, I'm Faraz 👋
 
-<img src="./assets/map-pin.svg" align="absmiddle" /> Lahore, Pakistan
+<img src="./assets/map-pin.svg" align="absmiddle" /> 
 
 I architect production-grade **Agentic AI systems**, **Citation-Grounded RAG pipelines**, and **Computer Vision applications** on cloud-native infrastructure—building autonomous tools that turn complex workflows into one-click experiences.
 
