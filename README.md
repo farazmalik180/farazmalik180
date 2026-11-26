@@ -14,7 +14,7 @@ I architect production-grade **Agentic AI systems**, **custom LLM architectures 
 
 <p><a href="https://github.com/farazmalik180/autonomous-bug-fixing-agent"><img src="./text/bugfix-icon.svg" align="absmiddle" /><img src="./text/bugfix.svg" align="absmiddle" alt="Autonomous Bug-Fixing Agent" /></a> — Self-healing Python bug-fixing agent with LangGraph, Groq LPU, Docker sandbox execution, and human-in-the-loop approval. <a href="https://d3gctx9v0f6g4u.cloudfront.net"><img src="./assets/live-badge.svg?v=2" align="absmiddle" alt="Live on AWS HTTPS" /></a></p>
 
-<p><a href="https://github.com/farazmalik180/travel_compliance_checker"><img src="./text/pim-icon.svg" align="absmiddle" /><img src="./text/pim.svg" align="absmiddle" alt="travel_compliance_checker" /></a> — AI travel compliance engine evaluating passenger documents against FIA departure regulations using FastAPI & LangGraph.</p>
+<p><a href="https://github.com/farazmalik180/travel_compliance_checker"><img src="./text/pim-icon.svg" align="absmiddle" /><img src="./text/pim.svg" align="absmiddle" alt= "travel_compliance_checker" /></a> — AI travel compliance engine evaluating passenger documents against FIA departure regulations using FastAPI & LangGraph.</p>
 
 ## Past Work & Research Systems
 
