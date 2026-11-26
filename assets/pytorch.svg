@@ -1,1 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="92" height="20" role="img" aria-label="PyTorch / CV"><title>PyTorch / CV</title><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#E11D48"/><stop offset="100%" stop-color="#BE123C"/></linearGradient></defs><rect width="92" height="20" rx="10" fill="url(#g)"/><text x="46.0" y="14" fill="#ffffff" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" font-weight="600">PyTorch / CV</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="106" height="22" viewBox="0 0 106 22" role="img" aria-label="PyTorch / CV">
+  <title>PyTorch / CV</title>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#EE4C2C"/>
+      <stop offset="100%" stop-color="#C8371B"/>
+    </linearGradient>
+  </defs>
+  <rect width="106" height="22" rx="11" fill="url(#g)"/>
+  <rect x="0.5" y="0.5" width="105" height="21" rx="10.5" fill="none" stroke="#ffffff" stroke-opacity="0.18"/>
+  <g transform="translate(7, 4)">
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="none">
+  <path d="M12 2L6.5 7.5C3.5 10.5 3.5 15.5 6.5 18.5C9.5 21.5 14.5 21.5 17.5 18.5C20.5 15.5 20.5 10.5 17.5 7.5L16.1 8.9C18.3 11.1 18.3 14.9 16.1 17.1C13.9 19.3 10.1 19.3 7.9 17.1C5.7 14.9 5.7 11.1 7.9 8.9L12 4.8V2Z" fill="#ffffff"/>
+  <circle cx="15.2" cy="6.2" r="1.6" fill="#ffffff"/>
+</svg>
+  </g>
+  <text x="64.0" y="15" fill="#ffffff" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" font-weight="600">PyTorch / CV</text>
+</svg>

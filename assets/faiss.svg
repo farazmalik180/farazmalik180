@@ -1,1 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="86" height="20" role="img" aria-label="FAISS / RAG"><title>FAISS / RAG</title><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#2563EB"/><stop offset="100%" stop-color="#1D4ED8"/></linearGradient></defs><rect width="86" height="20" rx="10" fill="url(#g)"/><text x="43.0" y="14" fill="#ffffff" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" font-weight="600">FAISS / RAG</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="102" height="22" viewBox="0 0 102 22" role="img" aria-label="FAISS / RAG">
+  <title>FAISS / RAG</title>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="100%" stop-color="#1D4ED8"/>
+    </linearGradient>
+  </defs>
+  <rect width="102" height="22" rx="11" fill="url(#g)"/>
+  <rect x="0.5" y="0.5" width="101" height="21" rx="10.5" fill="none" stroke="#ffffff" stroke-opacity="0.18"/>
+  <g transform="translate(7, 4)">
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <ellipse cx="12" cy="5" rx="8" ry="3"/>
+  <path d="M4 5v6c0 1.66 3.58 3 8 3s8-1.34 8-3V5"/>
+  <path d="M4 11v6c0 1.66 3.58 3 8 3s8-1.34 8-3v-6"/>
+</svg>
+  </g>
+  <text x="62.0" y="15" fill="#ffffff" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" font-weight="600">FAISS / RAG</text>
+</svg>
