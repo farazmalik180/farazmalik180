@@ -2,17 +2,17 @@
 
 I architect production-grade **Agentic AI systems**, **custom LLM architectures & GPU kernels**, **RAG pipelines**, and **Computer Vision applications** on cloud-native infrastructure—building autonomous tools that turn complex workflows into one-click experiences.
 
-![Python](./assets/python.svg) ![Triton / CUDA](./assets/triton-cuda.svg) ![LLM Pretraining](./assets/llm-pretraining.svg) ![PyTorch / CV](./assets/pytorch.svg) ![LangGraph](./assets/langgraph.svg) ![FastAPI](./assets/fastapi.svg) ![Groq LPU](./assets/groq.svg) ![AWS Cloud](./assets/aws.svg) ![Hugging Face](./assets/huggingface.svg) ![FAISS / RAG](./assets/faiss.svg) ![Docker](./assets/docker.svg) ![Streamlit](./assets/streamlit.svg)
+![Python](./assets/python.svg?v=2) ![Triton / CUDA](./assets/triton-cuda.svg?v=2) ![LLM Pretraining](./assets/llm-pretraining.svg?v=2) ![PyTorch / CV](./assets/pytorch.svg?v=2) ![LangGraph](./assets/langgraph.svg?v=2) ![FastAPI](./assets/fastapi.svg?v=2) ![Groq LPU](./assets/groq.svg?v=2) ![AWS Cloud](./assets/aws.svg?v=2) ![Hugging Face](./assets/huggingface.svg?v=2) ![FAISS / RAG](./assets/faiss.svg?v=2) ![Docker](./assets/docker.svg?v=2) ![Streamlit](./assets/streamlit.svg?v=2)
 
 ## Let's Connect
 
-[![GitHub](./assets/github.svg)](https://github.com/farazmalik180) [![Hugging Face](./assets/hf-profile.svg)](https://huggingface.co/MF180) [![Email](./assets/email.svg)](mailto:farazmalik180@hotmail.com)
+[![GitHub](./assets/github.svg?v=2)](https://github.com/farazmalik180) [![Hugging Face](./assets/hf-profile.svg?v=2)](https://huggingface.co/MF180) [![Email](./assets/email.svg?v=2)](mailto:farazmalik180@hotmail.com)
 
 ## Current Projects
 
-<p><a href="https://github.com/farazmalik180/LitLens"><img src="./text/litlens-icon.svg" align="absmiddle" /><img src="./text/litlens.svg" align="absmiddle" alt="LitLens" /></a> — Research Paper Copilot agent — PDF upload, verifiable <code>[paper_id#cN]</code> citations, Map-Reduce literature matrices, and AWS Lambda + Groq LPU inference. <a href="https://d3hktea6lg4yfr.cloudfront.net"><img src="./assets/live-badge.svg" align="absmiddle" alt="Live on AWS HTTPS & HF" /></a></p>
+<p><a href="https://github.com/farazmalik180/LitLens"><img src="./text/litlens-icon.svg" align="absmiddle" /><img src="./text/litlens.svg" align="absmiddle" alt="LitLens" /></a> — Research Paper Copilot agent — PDF upload, verifiable <code>[paper_id#cN]</code> citations, Map-Reduce literature matrices, and AWS Lambda + Groq LPU inference. <a href="https://d3hktea6lg4yfr.cloudfront.net"><img src="./assets/live-badge.svg?v=2" align="absmiddle" alt="Live on AWS HTTPS & HF" /></a></p>
 
-<p><a href="https://github.com/farazmalik180/autonomous-bug-fixing-agent"><img src="./text/bugfix-icon.svg" align="absmiddle" /><img src="./text/bugfix.svg" align="absmiddle" alt="Autonomous Bug-Fixing Agent" /></a> — Self-healing Python bug-fixing agent with LangGraph, Groq LPU, Docker sandbox execution, and human-in-the-loop approval. <a href="https://d3gctx9v0f6g4u.cloudfront.net"><img src="./assets/live-badge.svg" align="absmiddle" alt="Live on AWS HTTPS" /></a></p>
+<p><a href="https://github.com/farazmalik180/autonomous-bug-fixing-agent"><img src="./text/bugfix-icon.svg" align="absmiddle" /><img src="./text/bugfix.svg" align="absmiddle" alt="Autonomous Bug-Fixing Agent" /></a> — Self-healing Python bug-fixing agent with LangGraph, Groq LPU, Docker sandbox execution, and human-in-the-loop approval. <a href="https://d3gctx9v0f6g4u.cloudfront.net"><img src="./assets/live-badge.svg?v=2" align="absmiddle" alt="Live on AWS HTTPS" /></a></p>
 
 <p><a href="https://github.com/farazmalik180/travel_compliance_checker"><img src="./text/pim-icon.svg" align="absmiddle" /><img src="./text/pim.svg" align="absmiddle" alt="Pakistan Immigration Manager" /></a> — AI travel compliance engine evaluating passenger documents against FIA departure regulations using FastAPI & LangGraph.</p>
 
