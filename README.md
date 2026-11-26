@@ -14,15 +14,7 @@ I architect production-grade **Agentic AI systems**, **RAG pipelines**, and **Co
 
 <p><a href="https://github.com/farazmalik180/autonomous-bug-fixing-agent"><img src="./text/bugfix-icon.svg" align="absmiddle" /><img src="./text/bugfix.svg" align="absmiddle" alt="Autonomous Bug-Fixing Agent" /></a> — Self-healing Python bug-fixing agent with LangGraph, Groq LPU, Docker sandbox execution, and human-in-the-loop approval. <a href="https://d3gctx9v0f6g4u.cloudfront.net"><img src="./assets/live-badge.svg" align="absmiddle" alt="Live on AWS HTTPS" /></a></p>
 
-<p><a href="https://github.com/farazmalik180/SwiftSupport-Commerce"><img src="./text/swiftsupport-icon.svg" align="absmiddle" /><img src="./text/swiftsupport.svg" align="absmiddle" alt="SwiftSupport Commerce" /></a> — Multi-agent e-commerce concierge — Triage, Catalog, and Orders/Returns specialist agents orchestrated via LangGraph + Groq.</p>
-
 <p><a href="https://github.com/farazmalik180/travel_compliance_checker"><img src="./text/pim-icon.svg" align="absmiddle" /><img src="./text/pim.svg" align="absmiddle" alt="Pakistan Immigration Manager" /></a> — AI travel compliance engine evaluating passenger documents against FIA departure regulations using FastAPI & LangGraph.</p>
-
-<p><a href="https://github.com/farazmalik180/DermaVision"><img src="./text/dermavision-icon.svg" align="absmiddle" /><img src="./text/dermavision.svg" align="absmiddle" alt="DermaVision" /></a> — Research-grade skin lesion classification and explainable Grad-CAM diagnostic visualiser powered by EfficientNetV2-S.</p>
-
-<p><a href="https://github.com/farazmalik180/cine-agent-architect"><img src="./text/cine-icon.svg" align="absmiddle" /><img src="./text/cine.svg" align="absmiddle" alt="CineAgent Architect" /></a> — Agentic content orchestration pipeline transforming raw cinematography transcripts into high-retention social assets.</p>
-
-<p><a href="https://github.com/farazmalik180/Ghostwriter-Swarm"><img src="./text/ghostwriter-icon.svg" align="absmiddle" /><img src="./text/ghostwriter.svg" align="absmiddle" alt="Ghostwriter Swarm" /></a> — Autonomous multi-agent swarm handling trend analysis, critical synthesis, creative drafting, and Gmail distribution.</p>
 
 ## Past Work & Research Systems
 
