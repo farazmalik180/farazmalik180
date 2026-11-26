@@ -1,8 +1,8 @@
 # Hi, I'm Faraz 👋
 
-I architect production-grade **Agentic AI systems**, **RAG pipelines**, and **Computer Vision applications** on cloud-native infrastructure—building autonomous tools that turn complex workflows into one-click experiences.
+I architect production-grade **Agentic AI systems**, **custom LLM architectures & GPU kernels**, **RAG pipelines**, and **Computer Vision applications** on cloud-native infrastructure—building autonomous tools that turn complex workflows into one-click experiences.
 
-![Python](./assets/python.svg) ![LangGraph](./assets/langgraph.svg) ![FastAPI](./assets/fastapi.svg) ![Groq LPU](./assets/groq.svg) ![AWS Cloud](./assets/aws.svg) ![Hugging Face](./assets/huggingface.svg) ![PyTorch / CV](./assets/pytorch.svg) ![FAISS / RAG](./assets/faiss.svg) ![Docker](./assets/docker.svg) ![Streamlit](./assets/streamlit.svg)
+![Python](./assets/python.svg) ![Triton / CUDA](./assets/triton-cuda.svg) ![LLM Pretraining](./assets/llm-pretraining.svg) ![PyTorch / CV](./assets/pytorch.svg) ![LangGraph](./assets/langgraph.svg) ![FastAPI](./assets/fastapi.svg) ![Groq LPU](./assets/groq.svg) ![AWS Cloud](./assets/aws.svg) ![Hugging Face](./assets/huggingface.svg) ![FAISS / RAG](./assets/faiss.svg) ![Docker](./assets/docker.svg) ![Streamlit](./assets/streamlit.svg)
 
 ## Let's Connect
 
