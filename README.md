@@ -8,6 +8,27 @@ I architect production-grade **Agentic AI systems**, **custom LLM architectures 
 
 [![GitHub](./assets/github.svg?v=2)](https://github.com/farazmalik180) [![Hugging Face](./assets/hf-profile.svg?v=2)](https://huggingface.co/MF180) [![Email](./assets/email.svg?v=2)](mailto:farazmalik180@hotmail.com)
 
+## Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./assets/pacman-contribution-graph-dark.svg?v=2"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./assets/pacman-contribution-graph.svg?v=2"
+  />
+  <img
+    alt="Pacman Contribution Graph"
+    src="./assets/pacman-contribution-graph-dark.svg?v=2"
+  />
+</picture>
+
+</div>
+
 ## Current Projects
 
 <p><a href="https://github.com/farazmalik180/LitLens"><img src="./text/litlens-icon.svg" align="absmiddle" /><img src="./text/litlens.svg" align="absmiddle" alt="LitLens" /></a> — Research Paper Copilot agent — PDF upload, verifiable <code>[paper_id#cN]</code> citations, Map-Reduce literature matrices, and AWS Lambda + Groq LPU inference. <a href="https://d3hktea6lg4yfr.cloudfront.net"><img src="./assets/live-badge.svg?v=2" align="absmiddle" alt="Live on AWS HTTPS & HF" /></a></p>
